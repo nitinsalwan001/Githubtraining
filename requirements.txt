@@ -6,3 +6,7 @@ Vibrant
 
 Dark Mode
 Video Calls
+
+Payment Options
+Send Money
+Recv Money
